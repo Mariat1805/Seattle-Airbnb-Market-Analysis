@@ -45,10 +45,10 @@ https://www.kaggle.com/datasets/airbnb/seattle
 ## Dashboard Preview
 
 ### Overview Dashboard
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](screenshots/Dashboard-overview.png)
 
 ### Price by ZIP Code
-![Price by ZIP](screenshots/price per zipcode.png)
+![Price by ZIP](screenshots/price-per-zipcode.png)
 
 ### Revenue Trends
 ![Revenue Trends](screenshots/revenue-trend.png)
